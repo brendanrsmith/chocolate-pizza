@@ -105,7 +105,11 @@ h1 {
     font-size: 22px;
     line-height: 1.5;
     margin-top: 40px;
-    }
+}
 .notebook {
     width: 100%;
+}
+
+.strike {
+    text-decoration: line-through;
 }
