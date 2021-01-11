@@ -98,7 +98,14 @@ h1 {
     left: 0;
     right: 0;
     bottom: 0;
-}
+    column-count: 2;
+    padding-left: 70px;
+    color: #666;
+    font-family: "Delius Swash Caps";
+    font-size: 22px;
+    line-height: 1.5;
+    margin-top: 40px;
+    }
 .notebook {
     width: 100%;
 }
