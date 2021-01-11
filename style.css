@@ -1,0 +1,36 @@
+.container {
+    width: 800px;
+    height: 200px;
+    background-color: red;
+    margin: 0 auto;
+}
+
+.menu {
+
+}
+
+.logo {
+
+}
+.logo img {
+    margin-right: 6px;
+}
+
+.logo-name {
+    font-family: "Kaushan Script";
+    font-size: 28px;
+    margin-bottom: -4px;
+}
+
+.logo-subtitle {
+    font-family: "Lato";
+    text-transform: uppercase;
+    font-size: 12px;
+
+}
+
+.divider {
+    height: 10px;
+    background-image: linear-gradient(45deg, #ffffff 16.67%, #999999 16.67%, #999999 50%, #ffffff 50%, #ffffff 66.67%, #999999 66.67%, #999999 100%);
+    background-size: 4.24px 4.24px;
+}
