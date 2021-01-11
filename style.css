@@ -1,5 +1,5 @@
 .container {
-    width: 800px;
+    width: 960px;
     margin: 0 auto;
 }
 
@@ -54,4 +54,26 @@
 }
 .clear {
     clear: both;
+}
+h1 {
+    font-family: "Pragati Narrow";
+    font-size: 40px;
+    margin-bottom: 0;
+    line-height: 0.8;
+    margin-top: 60px;
+}
+
+.metadata {
+    font-family: "BenchNine";
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #999;
+}
+
+.date {
+    float: left;
+}
+
+.print {
+    float: right;
 }
