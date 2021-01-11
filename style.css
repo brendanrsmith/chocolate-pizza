@@ -141,3 +141,14 @@ h1 {
     text-transform: uppercase;
     font-size: 20px;
 }
+
+.line-divider {
+    border-top: 1px solid #eee;
+    margin-top: 50px;
+}
+.line-divider img {
+    margin: auto;
+    display: block;
+    transform: translateY(-50%);
+    border: 10px solid white;
+}
