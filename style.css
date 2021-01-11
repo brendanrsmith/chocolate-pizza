@@ -89,3 +89,16 @@ h1 {
     text-indent: 30px;
     color:#666;
 }
+.list-bg {
+    position: relative;
+}
+.list-bg ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.notebook {
+    width: 100%;
+}
